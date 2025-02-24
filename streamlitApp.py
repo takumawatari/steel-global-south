@@ -22,6 +22,3 @@ sankey_file_path = f"sankey/{country}_{year}.svg"
 
 # open
 st.image(sankey_file_path)
-#with open(sankey_file_path, encoding="utf8") as file:
-    #svg_content = file.read()
-#st.markdown(f'<div style="justify-content: center;">{svg_content}</div>', unsafe_allow_html=True)

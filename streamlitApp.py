@@ -21,13 +21,7 @@ country = st.selectbox('Select Country', country_list)
 sankey_file_path = f"sankey/{country}_{year}.svg"
 
 # Check if file exists before loading
-if os.path.exists(sankey_file_path):
-    with open(sankey_file_path, encoding="utf8") as file:
-        svg_content = file.read()
-    
-    st.markdown(
-        f'<div style="display: flex; justify-content: center;">{svg_content}</div>',
-        unsafe_allow_html=True
-    )
-else:
-    st.warning(f"File not found: {sankey_file_path}. Please check if the file exists.")
+
+with open(sankey_file_path, encoding="utf8") as file:
+    svg_content = file.read()
+st.markdown(f'<div style="justify-content: center;">{svg_content}</div>', unsafe_allow_html=True)

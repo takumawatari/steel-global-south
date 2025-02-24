@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.2" viewBox="0 0 900 350">
+<svg id="_レイヤー_1" data-name="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" version="1.2" viewBox="0 0 900 350">
   <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
   <g>
     <g display="none">
@@ -34,16 +34,14 @@
     </g>
     <g>
       <rect x="759" y="80" width="21" height="90.8" fill="#eee" stroke="#bbb" stroke-width=".5"/>
-      <g isolation="isolate">
-        <text transform="translate(759 75)" fill="#999" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Stock</tspan></text>
-      </g>
+      <text transform="translate(759 75)" fill="#999" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Stock</tspan></text>
     </g>
     <g display="none">
       <rect x="759" y="252" width="21" height="45.8" fill="#eee" stroke="#bbb" stroke-width=".5"/>
     </g>
   </g>
   <g>
-    <image width="91" height="61" transform="translate(131 39)" xlink:href="Argentina_2019-1.png"/>
+    <image width="91" height="62" transform="translate(131 39)" xlink:href="Argentina_2019-1.png"/>
     <image width="91" height="107" transform="translate(131 69)" xlink:href="Argentina_2019-2.png"/>
     <image width="91" height="107" transform="translate(131 69)" xlink:href="Argentina_2019-3.png"/>
     <image width="91" height="51" transform="translate(131 175)" xlink:href="Argentina_2019-4.png"/>
@@ -66,7 +64,7 @@
     <image width="91" height="75" transform="translate(131 151)" xlink:href="Argentina_2019-21.png"/>
     <image width="91" height="75" transform="translate(131 151)" xlink:href="Argentina_2019-22.png"/>
     <image width="91" height="75" transform="translate(131 151)" xlink:href="Argentina_2019-23.png"/>
-    <image width="91" height="46" transform="translate(222 54)" xlink:href="Argentina_2019-24.png"/>
+    <image width="91" height="47" transform="translate(222 54)" xlink:href="Argentina_2019-24.png"/>
     <image width="91" height="86" transform="translate(222 54)" xlink:href="Argentina_2019-25.png"/>
     <image width="91" height="86" transform="translate(222 54)" xlink:href="Argentina_2019-26.png"/>
     <image width="91" height="34" transform="translate(222 135)" xlink:href="Argentina_2019-27.png"/>
@@ -74,7 +72,7 @@
     <image width="91" height="34" transform="translate(222 135)" xlink:href="Argentina_2019-29.png"/>
     <image width="91" height="131" transform="translate(222 201)" xlink:href="Argentina_2019-30.png"/>
     <image width="91" height="131" transform="translate(222 201)" xlink:href="Argentina_2019-31.png"/>
-    <image width="91" height="27" transform="translate(222 199)" xlink:href="Argentina_2019-32.png"/>
+    <image width="91" height="28" transform="translate(222 198)" xlink:href="Argentina_2019-32.png"/>
     <image width="91" height="75" transform="translate(222 151)" xlink:href="Argentina_2019-33.png"/>
     <image width="91" height="75" transform="translate(222 151)" xlink:href="Argentina_2019-34.png"/>
     <image width="91" height="75" transform="translate(222 151)" xlink:href="Argentina_2019-35.png"/>
@@ -140,7 +138,7 @@
     <path d="M221.3,293.1h92.3-92.3Z" fill="#ead8c0"/>
     <path d="M221.3,293.1h92.3-92.3Z" fill="#fff2e1"/>
     <path d="M221.3,293.1h92.3-92.3Z" fill="#d1bb9e"/>
-    <image width="92" height="46" transform="translate(404 54)" xlink:href="Argentina_2019-92.png"/>
+    <image width="92" height="47" transform="translate(404 54)" xlink:href="Argentina_2019-92.png"/>
     <image width="92" height="1" transform="translate(404 100)" xlink:href="Argentina_2019-93.png"/>
     <image width="92" height="1" transform="translate(404 100)" xlink:href="Argentina_2019-94.png"/>
     <image width="92" height="1" transform="translate(404 100)" xlink:href="Argentina_2019-95.png"/>
@@ -183,17 +181,17 @@
     <image width="91" height="94" transform="translate(496 132)" xlink:href="Argentina_2019-126.png"/>
     <image width="91" height="94" transform="translate(496 132)" xlink:href="Argentina_2019-127.png"/>
     <image width="91" height="94" transform="translate(496 132)" xlink:href="Argentina_2019-128.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-129.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-130.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-131.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-132.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-133.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-134.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-135.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-136.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-137.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-138.png"/>
-    <image width="91" height="32" transform="translate(496 194)" xlink:href="Argentina_2019-139.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-129.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-130.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-131.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-132.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-133.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-134.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-135.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-136.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-137.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-138.png"/>
+    <image width="91" height="33" transform="translate(496 193)" xlink:href="Argentina_2019-139.png"/>
     <path d="M403.9,266.7h92.3-92.3Z" fill="#a79277"/>
     <path d="M403.9,266.7h92.3-92.3Z" fill="#e0f3db"/>
     <path d="M403.9,293.1h92.3-92.3Z" fill="#ccebc5"/>
@@ -215,7 +213,7 @@
     <path d="M587.4,100h90.3-90.3Z" fill="#0868ac"/>
     <path d="M587.4,100h90.3-90.3Z" fill="#d9d9d9"/>
     <path d="M587.4,100h90.3-90.3Z" fill="#d1bb9e"/>
-    <image width="91" height="194" transform="translate(587 129)" xlink:href="Argentina_2019-143.png"/>
+    <image width="91" height="195" transform="translate(587 129)" xlink:href="Argentina_2019-143.png"/>
     <image width="9" height="140" transform="translate(586 132)" xlink:href="Argentina_2019-144.png"/>
     <image width="91" height="97" transform="translate(587 129)" xlink:href="Argentina_2019-145.png"/>
     <image width="91" height="97" transform="translate(587 129)" xlink:href="Argentina_2019-146.png"/>
@@ -264,7 +262,7 @@
     <image width="91" height="28" transform="translate(678 100)" xlink:href="Argentina_2019-183.png"/>
     <image width="91" height="28" transform="translate(678 100)" xlink:href="Argentina_2019-184.png"/>
     <image width="91" height="28" transform="translate(678 100)" xlink:href="Argentina_2019-185.png"/>
-    <image width="91" height="169" transform="translate(678 152)" xlink:href="Argentina_2019-186.png"/>
+    <image width="91" height="170" transform="translate(678 152)" xlink:href="Argentina_2019-186.png"/>
     <image width="9" height="116" transform="translate(677 157)" xlink:href="Argentina_2019-187.png"/>
     <image width="91" height="53" transform="translate(678 100)" xlink:href="Argentina_2019-188.png"/>
     <image width="91" height="53" transform="translate(678 100)" xlink:href="Argentina_2019-189.png"/>
@@ -272,15 +270,15 @@
     <image width="9" height="89" transform="translate(677 183)" xlink:href="Argentina_2019-191.png"/>
     <image width="91" height="44" transform="translate(678 182)" xlink:href="Argentina_2019-192.png"/>
     <image width="91" height="44" transform="translate(678 182)" xlink:href="Argentina_2019-193.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-194.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-195.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-196.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-197.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-198.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-199.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-200.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-201.png"/>
-    <image width="92" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-202.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-194.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-195.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-196.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-197.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-198.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-199.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-200.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-201.png"/>
+    <image width="91" height="50" transform="translate(678 148)" xlink:href="Argentina_2019-202.png"/>
     <image width="91" height="115" transform="translate(678 210)" xlink:href="Argentina_2019-203.png"/>
     <image width="8" height="60" transform="translate(677 211)" xlink:href="Argentina_2019-204.png"/>
     <image width="91" height="16" transform="translate(678 210)" xlink:href="Argentina_2019-205.png"/>
@@ -291,21 +289,21 @@
     <image width="93" height="4" transform="translate(586 290)" xlink:href="Argentina_2019-210.png"/>
     <image width="91" height="94" transform="translate(313 150)" xlink:href="Argentina_2019-211.png"/>
     <image width="91" height="123" transform="translate(313 121)" xlink:href="Argentina_2019-212.png"/>
-    <image width="92" height="48" transform="translate(404 53)" xlink:href="Argentina_2019-213.png"/>
+    <image width="92" height="49" transform="translate(404 53)" xlink:href="Argentina_2019-213.png"/>
     <image width="91" height="49" transform="translate(222 53)" xlink:href="Argentina_2019-214.png"/>
     <image width="91" height="197" transform="translate(587 128)" xlink:href="Argentina_2019-215.png"/>
     <image width="91" height="145" transform="translate(678 181)" xlink:href="Argentina_2019-216.png"/>
     <image width="91" height="118" transform="translate(678 209)" xlink:href="Argentina_2019-217.png"/>
     <image width="10" height="119" transform="translate(677 155)" xlink:href="Argentina_2019-218.png"/>
-    <image width="10" height="90" transform="translate(677 182)" xlink:href="Argentina_2019-219.png"/>
+    <image width="10" height="91" transform="translate(677 182)" xlink:href="Argentina_2019-219.png"/>
     <image width="92" height="58" transform="translate(404 190)" xlink:href="Argentina_2019-220.png"/>
     <image width="9" height="61" transform="translate(677 210)" xlink:href="Argentina_2019-221.png"/>
     <image width="92" height="122" transform="translate(404 125)" xlink:href="Argentina_2019-222.png"/>
-    <image width="91" height="32" transform="translate(587 119)" xlink:href="Argentina_2019-223.png"/>
+    <image width="91" height="33" transform="translate(587 119)" xlink:href="Argentina_2019-223.png"/>
     <image width="11" height="148" transform="translate(677 127)" xlink:href="Argentina_2019-224.png"/>
     <image width="9" height="78" transform="translate(586 191)" xlink:href="Argentina_2019-225.png"/>
-    <image width="10" height="143" transform="translate(586 129)" xlink:href="Argentina_2019-226.png"/>
-    <image width="91" height="50" transform="translate(222 199)" xlink:href="Argentina_2019-227.png"/>
+    <image width="11" height="143" transform="translate(586 129)" xlink:href="Argentina_2019-226.png"/>
+    <image width="91" height="51" transform="translate(222 198)" xlink:href="Argentina_2019-227.png"/>
     <image width="91" height="7" transform="translate(313 242)" xlink:href="Argentina_2019-228.png"/>
     <image width="91" height="53" transform="translate(496 51)" xlink:href="Argentina_2019-229.png"/>
     <image width="92" height="9" transform="translate(404 242)" xlink:href="Argentina_2019-230.png"/>
@@ -320,7 +318,7 @@
     <image width="91" height="27" transform="translate(587 185)" xlink:href="Argentina_2019-239.png"/>
     <image width="91" height="186" transform="translate(222 135)" xlink:href="Argentina_2019-240.png"/>
     <image width="91" height="103" transform="translate(587 47)" xlink:href="Argentina_2019-241.png"/>
-    <image width="91" height="30" transform="translate(587 150)" xlink:href="Argentina_2019-242.png"/>
+    <image width="91" height="31" transform="translate(587 150)" xlink:href="Argentina_2019-242.png"/>
     <image width="91" height="16" transform="translate(222 168)" xlink:href="Argentina_2019-243.png"/>
     <image width="91" height="59" transform="translate(313 118)" xlink:href="Argentina_2019-244.png"/>
     <image width="91" height="55" transform="translate(587 119)" xlink:href="Argentina_2019-245.png"/>
@@ -334,12 +332,12 @@
     <image width="91" height="26" transform="translate(222 183)" xlink:href="Argentina_2019-253.png"/>
     <image width="91" height="33" transform="translate(313 176)" xlink:href="Argentina_2019-254.png"/>
     <image width="22" height="188" transform="translate(769 100)" xlink:href="Argentina_2019-255.png"/>
-    <image width="94" height="19" transform="translate(677 272)" xlink:href="Argentina_2019-256.png"/>
+    <image width="93" height="20" transform="translate(677 271)" xlink:href="Argentina_2019-256.png"/>
     <image width="91" height="19" transform="translate(313 100)" xlink:href="Argentina_2019-257.png"/>
     <image width="91" height="20" transform="translate(587 100)" xlink:href="Argentina_2019-258.png"/>
     <image width="93" height="26" transform="translate(586 268)" xlink:href="Argentina_2019-259.png"/>
     <image width="91" height="52" transform="translate(131 100)" xlink:href="Argentina_2019-260.png"/>
-    <image width="91" height="23" transform="translate(222 100)" xlink:href="Argentina_2019-261.png"/>
+    <image width="91" height="24" transform="translate(222 100)" xlink:href="Argentina_2019-261.png"/>
     <image width="92" height="26" transform="translate(404 100)" xlink:href="Argentina_2019-262.png"/>
     <image width="34" height="119" transform="translate(189 175)" xlink:href="Argentina_2019-263.png"/>
     <image width="93" height="28" transform="translate(221 266)" xlink:href="Argentina_2019-264.png"/>
@@ -356,17 +354,13 @@
     <g>
       <line x1="130" y1="39.8" x2="130" y2="69.5" fill="none" stroke="#000"/>
       <rect x="130" y="39.8" width="1" height="29.7" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(86 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
-      </g>
+      <text transform="translate(86 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
       <rect x="125" y="34.8" width="10" height="34.7" display="none" fill="none"/>
     </g>
     <g>
       <line x1="130" y1="100" x2="130" y2="122.2" fill="none" stroke="#000"/>
       <rect x="130" y="100" width="1" height="22.2" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(100 115.3)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Mine</tspan></text>
-      </g>
+      <text transform="translate(100 115.3)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Mine</tspan></text>
       <rect x="125" y="95" width="10" height="27.2" display="none" fill="none"/>
     </g>
     <g>
@@ -382,33 +376,25 @@
     <g>
       <line x1="130" y1="317.1" x2="130" y2="329.3" fill="none" stroke="#000"/>
       <rect x="130" y="317.1" width="1" height="12.2" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(102.7 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">1 Mt</tspan></text>
-      </g>
+      <text transform="translate(102.7 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">1 Mt</tspan></text>
       <rect x="125" y="312.1" width="10" height="17.2" display="none" fill="none"/>
     </g>
     <g>
       <line x1="221.3" y1="54.6" x2="221.3" y2="55.6" fill="none" stroke="#000"/>
       <rect x="221.3" y="54.6" width="1" height="1" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(177.3 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
-      </g>
+      <text transform="translate(177.3 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
       <rect x="216.3" y="49.6" width="10" height="6" display="none" fill="none"/>
     </g>
     <g>
       <line x1="221.3" y1="95" x2="221.3" y2="151.9" fill="none" stroke="#000"/>
       <rect x="221.3" y="100" width="1" height="51.9" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(217.3 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Iron ore</tspan></text>
-      </g>
+      <text transform="translate(217.3 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Iron ore</tspan></text>
       <rect x="216.3" y="95" width="10" height="56.9" display="none" fill="none"/>
     </g>
     <g>
       <line x1="221.3" y1="170.4" x2="221.3" y2="201.9" fill="none" stroke="#000"/>
       <rect x="221.3" y="175.4" width="1" height="26.5" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(217.3 169.6)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Scrap steel</tspan></text>
-      </g>
+      <text transform="translate(217.3 169.6)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Scrap steel</tspan></text>
       <rect x="216.3" y="170.4" width="10" height="31.5" display="none" fill="none"/>
     </g>
     <g>
@@ -434,17 +420,13 @@
     <g>
       <line x1="312.6" y1="95" x2="312.6" y2="123" fill="none" stroke="#000"/>
       <rect x="312.6" y="100" width="1" height="23" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(308.6 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Pig iron</tspan></text>
-      </g>
+      <text transform="translate(308.6 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Pig iron</tspan></text>
       <rect x="307.6" y="95" width="10" height="28" display="none" fill="none"/>
     </g>
     <g>
       <line x1="312.6" y1="139.7" x2="312.6" y2="151.9" fill="none" stroke="#000"/>
       <rect x="312.6" y="139.7" width="1" height="12.3" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(317.6 150)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Direct reduced iron</tspan></text>
-      </g>
+      <text transform="translate(317.6 150)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Direct reduced iron</tspan></text>
       <rect x="307.6" y="134.7" width="10" height="17.3" display="none" fill="none"/>
     </g>
     <g>
@@ -490,17 +472,13 @@
     <g>
       <line x1="312.6" y1="314.8" x2="312.6" y2="331.6" fill="none" stroke="#000"/>
       <rect x="312.6" y="314.8" width="1" height="16.8" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(317.6 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Exports</tspan></text>
-      </g>
+      <text transform="translate(317.6 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Exports</tspan></text>
       <rect x="307.6" y="309.8" width="10" height="21.8" display="none" fill="none"/>
     </g>
     <g>
       <line x1="403.9" y1="54.6" x2="403.9" y2="55.6" fill="none" stroke="#000"/>
       <rect x="403.9" y="54.6" width="1" height="1" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(359.8 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
-      </g>
+      <text transform="translate(359.8 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
       <rect x="398.9" y="49.6" width="10" height="6" display="none" fill="none"/>
     </g>
     <g>
@@ -511,9 +489,7 @@
     <g>
       <line x1="403.9" y1="100" x2="403.9" y2="127" fill="none" stroke="#000"/>
       <rect x="403.9" y="100" width="1" height="27" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(408.9 117.7)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">BOF steel</tspan></text>
-      </g>
+      <text transform="translate(408.9 117.7)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">BOF steel</tspan></text>
       <rect x="398.9" y="95" width="10" height="32" display="none" fill="none"/>
     </g>
     <g>
@@ -524,9 +500,7 @@
     <g>
       <line x1="403.9" y1="160.4" x2="403.9" y2="192" fill="none" stroke="#000"/>
       <rect x="403.9" y="160.4" width="1" height="31.6" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(408.9 180.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">EAF steel</tspan></text>
-      </g>
+      <text transform="translate(408.9 180.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">EAF steel</tspan></text>
       <rect x="398.9" y="155.4" width="10" height="36.6" display="none" fill="none"/>
     </g>
     <g>
@@ -557,17 +531,13 @@
     <g>
       <line x1="495.1" y1="51.4" x2="495.1" y2="58" fill="none" stroke="#000"/>
       <rect x="495.1" y="51.4" width="1" height="6.6" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(451.1 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
-      </g>
+      <text transform="translate(451.1 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
       <rect x="490.1" y="46.4" width="10" height="11.6" display="none" fill="none"/>
     </g>
     <g>
       <line x1="495.1" y1="95" x2="495.1" y2="155.8" fill="none" stroke="#000"/>
       <rect x="495.1" y="100" width="1" height="55.7" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(491.1 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Ingots and semis</tspan></text>
-      </g>
+      <text transform="translate(491.1 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Ingots and semis</tspan></text>
       <rect x="490.1" y="95" width="10" height="60.7" display="none" fill="none"/>
     </g>
     <g>
@@ -593,9 +563,7 @@
     <g>
       <line x1="495.1" y1="244.2" x2="495.1" y2="250.3" fill="none" stroke="#000"/>
       <rect x="495.1" y="244.2" width="1" height="6.2" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(500.1 251.5)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Loss</tspan></text>
-      </g>
+      <text transform="translate(500.1 251.5)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Loss</tspan></text>
       <rect x="490.1" y="239.2" width="10" height="11.2" display="none" fill="none"/>
     </g>
     <g>
@@ -606,9 +574,7 @@
     <g>
       <line x1="586.4" y1="47.8" x2="586.4" y2="61.5" fill="none" stroke="#000"/>
       <rect x="586.4" y="47.8" width="1" height="13.7" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(542.4 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
-      </g>
+      <text transform="translate(542.4 58.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Imports</tspan></text>
       <rect x="581.4" y="42.8" width="10" height="18.7" display="none" fill="none"/>
     </g>
     <g>
@@ -619,9 +585,7 @@
     <g>
       <line x1="586.4" y1="100" x2="586.4" y2="132.2" fill="none" stroke="#000"/>
       <rect x="586.4" y="100" width="1" height="32.2" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(591.4 120.3)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Long products</tspan></text>
-      </g>
+      <text transform="translate(591.4 120.3)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Long products</tspan></text>
       <rect x="581.4" y="95" width="10" height="37.2" display="none" fill="none"/>
     </g>
     <g>
@@ -637,9 +601,7 @@
     <g>
       <line x1="586.4" y1="163.8" x2="586.4" y2="193.9" fill="none" stroke="#000"/>
       <rect x="586.4" y="163.8" width="1" height="30.1" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(591.4 183)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Flat products</tspan></text>
-      </g>
+      <text transform="translate(591.4 183)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Flat products</tspan></text>
       <rect x="581.4" y="158.8" width="10" height="35.1" display="none" fill="none"/>
     </g>
     <g>
@@ -665,25 +627,19 @@
     <g>
       <line x1="677.7" y1="95" x2="677.7" y2="129.2" fill="none" stroke="#000"/>
       <rect x="677.7" y="100" width="1" height="29.2" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(673.7 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Construction</tspan></text>
-      </g>
+      <text transform="translate(673.7 94.2)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Construction</tspan></text>
       <rect x="672.7" y="95" width="10" height="34.2" display="none" fill="none"/>
     </g>
     <g>
       <line x1="677.7" y1="142.8" x2="677.7" y2="157.5" fill="none" stroke="#000"/>
       <rect x="677.7" y="142.8" width="1" height="14.7" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(682.7 154.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Transport</tspan></text>
-      </g>
+      <text transform="translate(682.7 154.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Transport</tspan></text>
       <rect x="672.7" y="137.8" width="10" height="19.7" display="none" fill="none"/>
     </g>
     <g>
       <line x1="677.7" y1="171.1" x2="677.7" y2="183.9" fill="none" stroke="#000"/>
       <rect x="677.7" y="171.1" width="1" height="12.8" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(682.7 181.7)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Machinery</tspan></text>
-      </g>
+      <text transform="translate(682.7 181.7)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Machinery</tspan></text>
       <rect x="672.7" y="166.1" width="10" height="17.8" display="none" fill="none"/>
     </g>
     <g>
@@ -694,9 +650,7 @@
     <g>
       <line x1="677.7" y1="197.5" x2="677.7" y2="211.8" fill="none" stroke="#000"/>
       <rect x="677.7" y="197.5" width="1" height="14.4" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(682.7 208.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Other goods</tspan></text>
-      </g>
+      <text transform="translate(682.7 208.9)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Other goods</tspan></text>
       <rect x="672.7" y="192.5" width="10" height="19.4" display="none" fill="none"/>
     </g>
     <g>
@@ -717,9 +671,7 @@
     <g>
       <line x1="677.7" y1="323.1" x2="677.7" y2="324.1" fill="none" stroke="#000"/>
       <rect x="677.7" y="323.1" width="1" height="1" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(682.7 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Exports</tspan></text>
-      </g>
+      <text transform="translate(682.7 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Exports</tspan></text>
       <rect x="672.7" y="318.1" width="10" height="6" display="none" fill="none"/>
     </g>
     <g>
@@ -755,9 +707,7 @@
     <g>
       <line x1="769" y1="321" x2="769" y2="325.4" fill="none" stroke="#000"/>
       <rect x="769" y="321" width="1" height="4.3" fill="none"/>
-      <g isolation="isolate">
-        <text transform="translate(774 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Exports</tspan></text>
-      </g>
+      <text transform="translate(774 327.4)" font-family="Helvetica, Helvetica" font-size="12" isolation="isolate"><tspan x="0" y="0">Exports</tspan></text>
       <rect x="764" y="316" width="10" height="9.3" display="none" fill="none"/>
     </g>
   </g>

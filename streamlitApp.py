@@ -15,7 +15,7 @@ country_list = [
     'Algeria', 'Angola', 'Ghana', 'Kenya', 'Morocco', 'Nigeria', 'Tanzania',
     'Malaysia', 'Philippines', 'Thailand', 'Vietnam'
 ]
-country = st.selectbox('Select country:', country_list)
+country = st.selectbox('**Select country:**', country_list)
 
 # file path
 sankey_file_path = f"sankey/{country}_{year}.svg"
